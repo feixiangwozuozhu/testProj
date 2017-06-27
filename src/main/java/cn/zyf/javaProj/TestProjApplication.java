@@ -1,8 +1,7 @@
-package cn.zyf.testProj;
+package cn.zyf.javaProj;
 
 /**
  * @author zyf
- * @company 杭州动享互联网技术有限公司
  * @date: 2017/6/9.
  * @time: 13:54
  */
